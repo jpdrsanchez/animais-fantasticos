@@ -1,7 +1,7 @@
 {
   "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto final do curso de Javascript completo da Origamid",
   "main": "index.html",
   "scripts": {
     "build": "webpack --mode production",
