@@ -1,7 +1,7 @@
 /* eslint-disable operator-linebreak */
 export default class Funcionamento {
   constructor(funcionamento, activeClass) {
-    this.funcionamento = document.querySelector('[data-semana]');
+    this.funcionamento = document.querySelector(funcionamento);
     this.activeClass = activeClass;
   }
 
